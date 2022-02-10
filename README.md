@@ -1,5 +1,5 @@
 <h1>Welcome! :)</h1>
-<p>My name is José Carlos. I'm currently working with native mobile applications in Android and iOS and studying full-stack development. You can check some of my web projects in <a href="https://www.heroku.com" target="_blank">Heroku</a> and in my 2DAW repository (the code is pretty much in English, only the comments are made in Spanish).</p>
+<p>My name is José Carlos. I'm currently working with native mobile applications in Android and iOS and studying full-stack development. You can check some of my web projects in <a href="https://www.heroku.com" target="_blank">Heroku</a> and in my <a href="https://github.com/josecarlosLH/2DAW" target="_blank">2DAW repository</a> (the code is pretty much in English, only the comments are made in Spanish).</p>
 
 <div align="center">
   <h3>Contact me!</h3>
