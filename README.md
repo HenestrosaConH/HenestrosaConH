@@ -10,7 +10,7 @@
 <div align="center">
   <h3>You can find me on</h3>
   <p>
-    <a href="https://www.linkedin.com/in/josecarloslh/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+    <a href="https://www.linkedin.com/in/henestrosaconh/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
     <a href="https://www.last.fm/user/Reminiscente" target="_blank"><img alt="Lastfm" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" /></a>
     <a href="mailto: henestrosaconh@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>  
