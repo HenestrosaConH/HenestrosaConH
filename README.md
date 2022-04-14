@@ -1,11 +1,14 @@
-<h1>Hi! I'm José Carlos</h1>
-<p>I'm currently working with native mobile applications in Android and iOS and studying full-stack development. You can check some of my web projects in <a href="https://github.com/josecarlosLH/2DAW/blob/main/Desarrollo%20web%20en%20entorno%20servidor/Heroku.txt" target="_blank">Heroku</a> and in my <a href="https://github.com/josecarlosLH/2DAW" target="_blank">2DAW repository</a> (the code is pretty much in English, only the comments are made in Spanish).</p>
+# Hi! I'm José Carlos
+I'm currently working with native mobile applications in Android and iOS and studying full-stack development. You can check some of my web projects in [Heroku](https://github.com/josecarlosLH/2DAW/blob/main/Desarrollo%20web%20en%20entorno%20servidor/Heroku.txt) and in my [2DAW](https://github.com/josecarlosLH/2DAW) (the code is pretty much in English, only the comments are made in Spanish).
 
-<p>I mainly program with tabs for the sake of accesibility, so I'd highly suggest you to check <a href="https://github.com/settings/appearance" target="_blank">your Github preferences</a> > <strong>Choose the number of spaces a tab is equal to when rendering code</strong>.</p>
+I mainly program with tabs for the sake of accesibility, so I'd highly suggest you to check [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
+
 <!--
 <div align="center">
   <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosLH&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> 
 </div>-->
+
+Don't forget to check my [Gists]!
 
 <div align="center">
   <h3>You can find me on</h3>
