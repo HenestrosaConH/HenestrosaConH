@@ -8,7 +8,7 @@ I mainly program with tabs for the sake of accesibility, so I'd highly suggest y
   <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosLH&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> 
 </div>-->
 
-Don't forget to check my [Gists]!
+Don't forget to check my [Gists](https://gist.github.com/HenestrosaConH)!
 
 <div align="center">
   <h3>You can find me on</h3>
