@@ -1,5 +1,5 @@
 # Hi! I'm José Carlos
-I'm currently working with native mobile applications in Android and iOS and studying full-stack development. You can check some of my web projects in [Heroku](https://github.com/josecarlosLH/2DAW/blob/main/Desarrollo%20web%20en%20entorno%20servidor/Heroku.txt) and in my [2DAW](https://github.com/josecarlosLH/2DAW) (the code is pretty much in English, only the comments are made in Spanish).
+I'm currently working with native mobile applications in Android and iOS and studying full-stack development. You can check some of my web projects in [Heroku](https://github.com/josecarlosLH/2DAW/blob/main/Desarrollo%20web%20en%20entorno%20servidor/Heroku.txt) and in my [2DAW repository](https://github.com/josecarlosLH/2DAW) (the code is pretty much in English, only the comments are made in Spanish).
 
 I mainly program with tabs for the sake of accesibility, so I'd highly suggest you to check [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
 
